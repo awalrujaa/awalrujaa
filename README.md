@@ -1,5 +1,5 @@
 ### Hi there 👋
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://tenor.com/6gMD.gif)
 - 🌱 I’m currently learning REACT :star_struck: 
 
 I am a ***final year computer engineering undergraduate at Pulchowk Campus.*** 
