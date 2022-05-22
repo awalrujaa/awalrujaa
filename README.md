@@ -1,5 +1,5 @@
 ### Hi there 👋
-![This is an image](https://tenor.com/6gMD.gif)
+![This is an image](http://www.theweedpatchstore.com/images/D/hello-sign-01.jpg)
 - 🌱 I’m currently learning REACT :star_struck: 
 
 I am a ***final year computer engineering undergraduate at Pulchowk Campus.*** 
