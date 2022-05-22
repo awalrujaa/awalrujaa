@@ -1,6 +1,6 @@
 ### Hi there 👋
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 - 🌱 I’m currently learning REACT :star_struck: 
-- I am fond of it.
 
 I am a ***final year computer engineering undergraduate at Pulchowk Campus.*** 
 
