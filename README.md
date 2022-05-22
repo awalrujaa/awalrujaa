@@ -1,5 +1,4 @@
 ### Hi there 👋
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 I am a ***final year computer engineering undergraduate at Pulchowk Campus.*** 
 I am highly interested in full stack web development and machine learning.
 
