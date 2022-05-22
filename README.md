@@ -1,9 +1,9 @@
 ### Hi there 👋
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-- 🌱 I’m currently learning REACT :star_struck: 
-
 I am a ***final year computer engineering undergraduate at Pulchowk Campus.*** 
 I am highly interested in full stack web development and machine learning.
+
+- 🌱 I’m currently learning REACT :star_struck: and am open to REACT internships.
 
 <!--
 **awalrujaa/awalrujaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
