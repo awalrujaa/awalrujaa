@@ -1,6 +1,6 @@
 ### Hi there 👋
-I am a ***final year computer engineering undergraduate at Pulchowk Campus.*** 
-I am highly interested in full stack web development and machine learning.
+- I am a ***final year computer engineering undergraduate at Pulchowk Campus.*** 
+- I am highly interested in full stack web development and machine learning.
 
 - 🌱 I’m currently learning REACT :star_struck: and am open to REACT internships.
 
