@@ -1,5 +1,8 @@
 ### Hi there 👋
-- 🌱 I’m currently learning REACT :star_struck: I am fond of it.
+- 🌱 I’m currently learning REACT :star_struck: 
+- I am fond of it.
+
+I am a ***final year computer engineering undergraduate at Pulchowk Campus.*** 
 
 <!--
 **awalrujaa/awalrujaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
