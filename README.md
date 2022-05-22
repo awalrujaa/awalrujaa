@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning REACT :star_struck: 
 
 I am a ***final year computer engineering undergraduate at Pulchowk Campus.*** 
+I am highly interested in full stack web development and machine learning.
 
 <!--
 **awalrujaa/awalrujaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
