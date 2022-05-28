@@ -3,7 +3,7 @@
 - I am highly interested in full stack web development and machine learning.
 
 - 🌱 I’m currently learning REACT :star_struck: and am ***open to REACT internships.***
-- 
+
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Rejection is redirection :wink:
 
