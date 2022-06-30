@@ -2,10 +2,6 @@
 - I am a ***final year computer engineering undergraduate at Pulchowk Campus.*** 
 - I am highly interested in full stack web development and machine learning.
 
-- 🌱 I’m currently learning REACT :star_struck: and am ***open to REACT internships.***
-
-- 😄 Pronouns: She/Her
-
 <!--
 **awalrujaa/awalrujaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,4 +15,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+- 🌱 I’m currently learning REACT :star_struck: and am ***open to REACT internships.***
+
+- 😄 Pronouns: She/Her
 -->
