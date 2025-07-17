@@ -1,8 +1,7 @@
 ### Hi 👋
 - I am a ***Computer Engineer from Pulchowk Campus.*** 
 - I am highly interested in backend development
-- 🔭 I’m currently a Software Development Fellow (Java) at Nepal Clearing House Public Limited.
-- And I am looking for associate roles in Backend Development.
+- 🔭 I’m a Junior Full Stack Software Engineer at Nepal Clearing House Public Limited.
 <!--
 - Read my blogs:
 Everything You Need to Know About Python[https://programiz.pro/resources/everything-you-need-to-know-about-python/]
